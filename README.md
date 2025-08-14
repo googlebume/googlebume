@@ -4,7 +4,7 @@ I am a student at INTITA Vinnytsia Technological University, studying at the Fac
 📫 How to reach me
 
 🛠 Tech Stack
-<avatar src="[https://example.com/my-photo.png](https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg)" alt="My photo"/>
+!(https://example.com/my-photo.png](https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg)
 <avatar src="https://example.com/my-photo.png" alt="My photo"/>
 <avatar src="https://example.com/my-photo.png" alt="My photo"/>
 <avatar src="https://example.com/my-photo.png" alt="My photo"/>
