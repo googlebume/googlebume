@@ -2,8 +2,8 @@
     <Header>
         <Greeting>👋 Hi there, I'm Сергій</Greeting>
         <Description>
-            I'm a student at KPI (Igor Sikorsky Kyiv Polytechnic Institute), studying at the FICE faculty. 
-            Passionate about full-stack development and modern web technologies.
+<!--             I'm a student at KPI (Igor Sikorsky Kyiv Polytechnic Institute), studying at the FICE faculty. 
+            Passionate about full-stack development and modern web technologies. -->
         </Description>
     </Header>
     <Contacts title="📮 How to reach me">
