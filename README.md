@@ -17,7 +17,3 @@ I am a student at INTITA Vinnytsia Technological University, studying at the Fac
 <avatar src="https://example.com/my-photo.png" alt="My photo"/>
 <avatar src="https://example.com/my-photo.png" alt="My photo"/>
 <avatar src="https://example.com/my-photo.png" alt="My photo"/>
-
-
-📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
