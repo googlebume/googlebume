@@ -16,7 +16,7 @@
     </a>
   </div>
   <div>
-    <a target="_blank" href="www.linkedin.com/in/serhiy-duzia-257809348">
+    <a target="_blank" href="https://www.linkedin.com/in/serhiy-duzia-257809348/">
       <img alt="email" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
   </div>
