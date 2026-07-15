@@ -38,7 +38,15 @@
 ### 🧩 Also working with
 
 <sub>
-Linux · Angular · React Native · Ionic · Redux Toolkit · Vite · Webpack · SCSS Modules · Redis · Firebase · Google Cloud Console · JWT / OAuth 2.0 · REST API / OpenAPI · Insomnia · Resend · Jest · Git · Figma
+
+**AI:** AI Integration · AI-assisted dev · Prompt Engineering
+
+**Frontend:** Angular · React Native · Ionic · Redux Toolkit · Vite · Webpack · SCSS Modules
+
+**Backend & Infra:** Redis · Firebase · Google Cloud Console · JWT / OAuth 2.0 · REST API · OpenAPI (Swagger) · Vercel · Railway · Fly · DigitalOcean
+
+**Tools:** Linux · Python · n8n · Insomnia · Resend · Jest · Git · Figma
+
 </sub>
 
 ---
