@@ -1,11 +1,5 @@
 <h1 align="center">Hi, I'm Serhii Duzia 👋</h1>
-<h3 align="center">Fullstack Developer · React & NestJS · Clean Architecture Enthusiast</h3>
-
-<p align="center">
-  Проєктую та реалізую надійні full-stack рішення — від масштабованого backend
-  на NestJS з чистою архітектурою до продуманого UI на React.
-  Пишу код, який легко тестувати, підтримувати та масштабувати.
-</p>
+<h3 align="center">Fullstack Developer · React & NestJS</h3>
 
 <p align="center">
   🔧 Microservices & Hexagonal Architecture &nbsp;|&nbsp;
