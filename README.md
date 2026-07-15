@@ -37,22 +37,19 @@
 
 ### 🧩 Also working with
 
-<sub>
-  
-<b>AI:</b> AI Integration · AI-assisted dev · Prompt Engineering
+<sub><b>AI:</b> AI Integration · AI-assisted dev · Prompt Engineering</sub>
 
 <br>
 
-<b>Frontend:</b> Angular · React Native · Ionic · Redux Toolkit · Vite · Webpack · SCSS Modules
+<sub><b>Frontend:</b> Angular · React Native · Ionic · Redux Toolkit · Vite · Webpack · SCSS Modules</sub>
 
 <br>
 
-<b>Backend & Infra:</b> Redis · Firebase · Google Cloud Console · JWT / OAuth 2.0 · REST API / OpenAPI · Vercel · Railway · Fly · DigitalOcean
+<sub><b>Backend & Infra:</b> Redis · Firebase · Google Cloud Console · JWT / OAuth 2.0 · REST API / OpenAPI · Vercel · Railway · Fly · DigitalOcean</sub>
 
 <br>
 
-<b>Tools:</b> Linux · Python · n8n · Insomnia · Resend · Jest · Git · Figma
-</sub>
+<sub><b>Tools:</b> Linux · Python · n8n · Insomnia · Resend · Jest · Git · Figma</sub>
 
 ---
 
