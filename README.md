@@ -2,14 +2,12 @@
 <h3 align="center">Fullstack Developer · React & NestJS</h3>
 
 <p align="center">
-  🔧 Microservices & Architecture &nbsp;|&nbsp;
-  🧱 DDD, CQRS, SOLID, GRASP &nbsp;|&nbsp;
-  🔐 Security-first підхід (JWT, OAuth 2.0, OWASP)
+  🎯 Turning complex business logic clean & scalable
 </p>
 
 ---
 
-### 📫 How to reach me
+### 📫 Contact
 
 <div>
   <a target="_blank" href="https://t.me/googlebume">
@@ -25,82 +23,28 @@
 
 ---
 
-### 🧠 Languages & Core
+### 🧠 Core Stack
 
 <div>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OOP-2E2E2E?style=for-the-badge"/>
-</div>
-
-### ⚙️ Backend & Architecture
-
-<div>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microservices-2E2E2E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hexagonal%20Architecture-2E2E2E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DDD-2E2E2E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CQRS-2E2E2E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SOLID-2E2E2E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GRASP-2E2E2E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GoF%20Patterns-2E2E2E?style=for-the-badge"/>
-</div>
-
-### 🎨 Frontend
-
-<div>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SCSS%20Modules-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SPA-2E2E2E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white"/>
-</div>
-
-### 🗄️ Data & Infrastructure
-
-<div>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prisma%20ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
 
-### 🔐 Auth & Security
+### 🧩 Also working with
 
-<div>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OAuth%202.0-2E2E2E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
-</div>
+<sub>
+Linux · Angular · React Native · Ionic · Redux Toolkit · Vite · Webpack · SCSS Modules · Redis · Firebase · Google Cloud Console · JWT / OAuth 2.0 · REST API / OpenAPI · Insomnia · Resend · Jest · Git · Figma
+</sub>
 
-### 🔌 API & Documentation
+---
 
-<div>
-  <img src="https://img.shields.io/badge/REST%20API-2E2E2E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OpenAPI%20(Swagger)-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white"/>
-</div>
+### 🏗️ Architecture & Practices
 
-### ☁️ Cloud & Services
-
-<div>
-  <img src="https://img.shields.io/badge/Firebase%20Console-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud%20Console-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white"/>
-</div>
-
-### 🧪 Testing & Tools
-
-<div>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</div>
+<sub>
+DDD · CQRS · Hexagonal Architecture · SOLID · GRASP · GoF Patterns
+</sub>
