@@ -2,9 +2,9 @@
 <h3 align="center">Fullstack Developer · React & NestJS</h3>
 
 <p align="center">
-  🔧 Microservices & Hexagonal Architecture &nbsp;|&nbsp;
+  🔧 Microservices & Architecture &nbsp;|&nbsp;
   🧱 DDD, CQRS, SOLID, GRASP &nbsp;|&nbsp;
-  🔐 Security-first подход (JWT, OAuth 2.0, OWASP)
+  🔐 Security-first підхід (JWT, OAuth 2.0, OWASP)
 </p>
 
 ---
@@ -51,10 +51,15 @@
 
 <div>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/SCSS%20Modules-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/SPA-2E2E2E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white"/>
 </div>
 
 ### 🗄️ Data & Infrastructure
